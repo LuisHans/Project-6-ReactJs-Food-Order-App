@@ -1,4 +1,4 @@
-#  Project 1 ReactJs
+#  Project 6 ReactJs
 
 This project is an student project, developed from the course:
 
